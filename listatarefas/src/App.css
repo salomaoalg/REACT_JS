@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+h1{
+  margin-top: 50px;
+  text-align: center;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background: blue;
+}
+button{
+  cursor: pointer;
+}
