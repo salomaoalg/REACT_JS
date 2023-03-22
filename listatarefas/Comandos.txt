@@ -1,0 +1,3 @@
+npm start
+npm eslint babel-eslint
+npx eslint --init
