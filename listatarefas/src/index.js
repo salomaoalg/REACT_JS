@@ -1,7 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import App from './App.css';
+import Main from './components/Main';
 
 
-ReactDOM.render(<App/>,document.getElementById('root'));
+export default function App(){
+    return <Main/>
+}
 
